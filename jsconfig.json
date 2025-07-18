@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    // ... other existing compiler options ...
+
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+
+    // ... rest of your compiler options ...
+  },
+  // ... rest of your tsconfig.json/jsconfig.json file content (e.g., "include", "exclude") ...
+}
