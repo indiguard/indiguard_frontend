@@ -87,7 +87,7 @@ const ApplicationForm = ({ selectedPosition }) => {
     });
 
     // POST to your backend API
-    const response = await fetch('https://indi-backend.onrender.com/api/apply/', {
+    const response = await fetch('https://indiguard-backend.onrender.com/api/apply/', {
       method: 'POST',
       body: formData,
     });
