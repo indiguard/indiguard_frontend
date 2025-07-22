@@ -34,7 +34,7 @@ const MissionSection = () => {
             Our Mission & Values
           </h2>
           <p className="text-base sm:text-lg lg:text-xl text-text-secondary leading-relaxed">
-           IndiGuard Security Ltd is a professional and reliable security services company founded in 2024, providing tailored protection across London, Cardiff, and the Midlands. We are fully SIA-licensed, committed to upholding the highest industry standards and delivering exceptional safety solutions to both residential and commercial clients.
+           IndiGuard Security Ltd is a professional and reliable security services company founded in 2023, providing tailored protection across London, Cardiff, and the Midlands. We are fully SIA-licensed, committed to upholding the highest industry standards and delivering exceptional safety solutions to both residential and commercial clients.
            With a strong team of vetted, trained, and experienced security officers, we offer 24/7 response, mobile patrols, keyholding, and vacant property inspections. Our commitment to transparency, punctuality, and professionalism ensures our clients receive peace of mind and maximum value at all times.
            We operate with a client-first approach and pride ourselves on rapid deployment, local knowledge, and long-term trust.
           </p>
