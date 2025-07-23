@@ -66,7 +66,7 @@ const QuoteRequestForm = () => {
     setIsSubmitting(true);
 
     try {
-      const response = await fetch('https://indiguard-backend.onrender.com/api/quote-request/', {
+      const response = await fetch(`https://indiguard-backend.onrender.com/api/quote-request/`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(formData),
