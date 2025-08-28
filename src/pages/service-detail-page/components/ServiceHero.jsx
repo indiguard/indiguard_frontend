@@ -64,10 +64,10 @@ const ServiceHero = ({ service, onGetQuote }) => {
                 size="lg"
                 iconName="Phone"
                 iconPosition="left"
-                onClick={() => window.location.href = 'tel:+74048120024'}
+                onClick={() => window.location.href = 'tel:+4474389236'}
                 className="w-full sm:w-auto text-white border-white hover:bg-white/10"
               >
-                Call (074) 4812-0024
+                Call +4474389236
               </Button>
             </div>
             
