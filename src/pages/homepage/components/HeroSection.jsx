@@ -117,7 +117,7 @@ const HeroSection = () => {
                 <div>
                   <p className="text-sm opacity-80">24/7 Emergency</p>
                   <a
-                    href="tel:+74038982366"
+                    href="tel:+447438982366"
                     className="font-data text-lg font-bold text-accent hover:text-white transition-smooth">
 
                     (074) 3898-2366
