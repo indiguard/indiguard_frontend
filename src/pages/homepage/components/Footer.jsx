@@ -145,17 +145,12 @@ const Footer = () => {
               <div className="flex items-center space-x-3">
                 <Icon name="Phone" size={18} className="text-accent" />
                 <a
-                  href="tel:+44735173221"
+                  href="tel:+447448120024"
                   className="text-primary-foreground/80 hover:text-accent transition-smooth">
 
-                  +44735173221
+                  (074) 4812-0024
                 </a>   
-                 <a
-                  href="tel:+4474389236"
-                  className="text-primary-foreground/80 hover:text-accent transition-smooth">
-
-                  +4474389236
-                </a>
+                
               </div>
               
               <div className="flex items-center space-x-3">
