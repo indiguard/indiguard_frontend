@@ -52,10 +52,10 @@ const ServicesHero = ({ onFilterChange }) => {
                 variant="ghost"
                 iconName="Phone"
                 iconPosition="left"
-                onClick={() => window.location.href = 'tel:+4474389236'}
+                onClick={() => window.location.href = 'tel:+447448120024'}
                 className="w-full sm:w-auto text-white border-white hover:bg-white/10"
               >
-                Emergency: +4474389236
+                Emergency: (074) 4812-0024
               </Button>
             </div>
 
