@@ -128,11 +128,11 @@ const ServiceFAQ = ({ service }) => {
               </a>
               
               <a
-                href="tel:+74048120024"
+                href="tel:+44735173221"
                 className="inline-flex items-center justify-center space-x-2 px-4 sm:px-6 py-2 sm:py-3 border border-primary text-primary rounded-lg hover:bg-primary/5 transition-colors duration-200 text-sm sm:text-base"
               >
                 <Icon name="Phone" size={16} className="flex-shrink-0" />
-                <span>Call (074) 4812-0024</span>
+                <span>Call +44735173221</span>
               </a>
             </div>
           </div>
