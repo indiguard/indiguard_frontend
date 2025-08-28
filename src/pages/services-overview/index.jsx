@@ -510,10 +510,10 @@ const ServicesOverview = () => {
                 <div className="flex items-center space-x-3">
                   <Icon name="Phone" size={18} className="text-accent" />
                   <a
-                    href="tel:+44735173221"
+                    href="tel:+447438982366"
                     className="text-primary-foreground/80 hover:text-accent transition-smooth"
                   >
-                    +44735173221
+                    (074) 3898-2366
                   </a>
                 </div>
                 
