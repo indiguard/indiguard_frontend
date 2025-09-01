@@ -9,9 +9,9 @@ const ContactInformation = () => {
     {
       icon: 'Phone',
       title: '24/7 Emergency Hotline',
-      value: '(074) 4812-0024',
+      value: '(074) 3898-2366',
       description: 'Immediate response for security emergencies',
-      action: 'tel:+74038982366',
+      action: 'tel:+447438982366',
       urgent: true
     },
     {
@@ -55,17 +55,17 @@ const ContactInformation = () => {
         </div>
         <div className="flex items-center justify-between">
           <a
-            href="tel:+74048120024"
+            href="tel:+447351732210"
             className="text-2xl font-data font-bold hover:opacity-80 transition-smooth"
           >
-            (074) 4812-0024
+            (073) 5173-2210
           </a>
           <Button
             variant="secondary"
             size="sm"
             iconName="Phone"
             iconPosition="left"
-            onClick={() => window.location.href = 'tel:+74048120024'}
+            onClick={() => window.location.href = 'tel:+447351732210'}
           >
             Call Now
           </Button>
