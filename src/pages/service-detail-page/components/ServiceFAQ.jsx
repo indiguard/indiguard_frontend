@@ -132,7 +132,7 @@ const ServiceFAQ = ({ service }) => {
                 className="inline-flex items-center justify-center space-x-2 px-4 sm:px-6 py-2 sm:py-3 border border-primary text-primary rounded-lg hover:bg-primary/5 transition-colors duration-200 text-sm sm:text-base"
               >
                 <Icon name="Phone" size={16} className="flex-shrink-0" />
-                <span>Call (074) 4812-0024</span>
+                <span>Call (073) 5173-2210</span>
               </a>
             </div>
           </div>
