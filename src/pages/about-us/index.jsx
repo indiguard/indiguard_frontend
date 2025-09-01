@@ -108,7 +108,7 @@ const AboutUsPage = () => {
               <div className="space-y-2 sm:space-y-3 text-sm sm:text-base">
                 <div className="flex items-center space-x-2">
                   <Icon name="Phone" className="w-4 h-4" />
-                  <span className="text-primary-foreground/80">(074) 4812-0024</span>
+                  <span className="text-primary-foreground/80">+44735173221</span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <Icon name="Mail" className="w-4 h-4" />
