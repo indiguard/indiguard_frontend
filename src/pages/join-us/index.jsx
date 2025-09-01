@@ -317,7 +317,7 @@ const JoinUsPage = () => {
               <div className="space-y-3">
                 <div className="flex items-center space-x-2">
                   <Icon name="Phone" size={16} />
-                  <span className="text-primary-foreground/80">+44735173221</span>
+                  <span className="text-primary-foreground/80">(073) 5173-2210</span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <Icon name="Mail" size={16} />
