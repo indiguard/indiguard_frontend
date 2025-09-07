@@ -34,7 +34,7 @@ const EmergencyContact = ({ position = 'floating' }) => {
                 <div>
                   <p className="text-xs text-text-secondary mb-1">Emergency Hotline</p>
                   <a
-                    href="tel:+74048120024"
+                    href="tel:+447448120024"
                     className="flex items-center space-x-2 p-2 bg-error/5 rounded-md hover:bg-error/10 transition-smooth"
                   >
                     <Icon name="Phone" size={16} color="#E53E3E" />
@@ -93,7 +93,7 @@ const EmergencyContact = ({ position = 'floating' }) => {
       
       <div className="flex items-center space-x-3">
         <a
-          href="tel:+74048120024"
+          href="tel:+447448120024"
           className="font-data text-sm font-semibold text-primary hover:text-secondary transition-smooth"
         >
           (074) 4812-0024
