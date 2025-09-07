@@ -154,7 +154,7 @@ const Header = () => {
           {/* Mobile Menu Button */}
           <div className="lg:hidden flex items-center space-x-3">
             <a
-              href="tel:+74038982366"
+              href="tel:+447438982366"
               className="p-2 text-error hover:bg-error/10 rounded-md transition-smooth">
 
               <Icon name="Phone" size={20} />
